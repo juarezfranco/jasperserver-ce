@@ -1,7 +1,8 @@
 # Introdução
-    - Imagem base [https://github.com/agois-inc/docker-jasperserver-ce](https://github.com/agois-inc/docker-jasperserver-ce)
-    - Instalado linguagem pt-BR
-    - Configurado para sql iniciar com `WITH`
+
+- Imagem base [https://github.com/agois-inc/docker-jasperserver-ce](https://github.com/agois-inc/docker-jasperserver-ce)
+- Instalado linguagem pt-BR
+- Configurado para sql iniciar com `WITH`
 
 # Executar
 
