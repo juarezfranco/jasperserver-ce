@@ -1,4 +1,4 @@
-FROM agois/jasperserver-ce:6.4.2
+FROM agois/jasperserver-ce:7.8.0
 
     RUN apt-get update
 
