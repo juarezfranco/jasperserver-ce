@@ -9,4 +9,4 @@ FROM agois/jasperserver-ce:7.8.0
     RUN echo "pt_BR.UTF-8 UTF-8" > /etc/locale.gen
     RUN locale-gen
 
-    COPY jasper.validation.properties.zip /usr/local/share/jasperreports/customization/custom.zip
+    COPY jasper.validation.properties.zip /usr/local/share/jasperserver/customization/custom.zip
