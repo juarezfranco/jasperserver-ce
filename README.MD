@@ -2,7 +2,7 @@
 
 - Imagem base [https://github.com/agois-inc/docker-jasperserver-ce](https://github.com/agois-inc/docker-jasperserver-ce)
 - Instalado linguagem pt-BR
-- Atualizado `security.validation.sql.on=false` em `WEB-INF/classes/esapi/security-config.properties`
+- Habilitado para query iniciar com clausula 'WITH'
 
 # Executar
 
